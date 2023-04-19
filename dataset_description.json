@@ -111,6 +111,6 @@
         "Izquierdo-Garcia, D. et al. An SPM8-based approach for attenuation correction combining segmentation and nonrigid template formation: application to simultaneous PET/MR brain imaging. J Nucl Med 55, 1825-1830, (2014).",
         "Van Dijk, K. R., Sabuncu, M. R. & Buckner, R. L. The influence of head motion on intrinsic functional connectivity MRI. Neuroimage 59, 431-438, (2012)."
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004552.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004552.v1.0.1",
     "BIDSVersion": "1.0.0rc2"
 }
